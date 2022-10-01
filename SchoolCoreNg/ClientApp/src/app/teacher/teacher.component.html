@@ -1,0 +1,29 @@
+<h1 id="tableLabel">Teacher</h1>
+
+<div *ngIf="isList">
+    <a href="javascript:void(0)" (click)="addNew();">Add New</a>
+    <p *ngIf="!teachers"><em>Loading...</em></p>
+    <table class='table table-striped' aria-labelledby="tableLabel" *ngIf="teachers">
+        <thead>
+            <tr>
+                <th>Teacher's Name</th>
+                <th>#</th>
+                <th>#</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let item of teachers">
+                <td>{{ item.teacherName }}</td>
+                <td><a href="javascript:void(0)" (click)="edit(item);">Edit</a></td>
+                <td><a href="javascript:void(0)" (click)="delete(item);">Delete</a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<div *ngIf="!isList">
+    <a href="javascript:void(0)" (click)="goToList();">Go To List</a><br />
+    <input type="hidden" [(ngModel)]="teacher.teacherId" />
+    <label>Teacher Name:</label> <input type="text" [(ngModel)]="teacher.teacherName" />
+    <button type="button" (click)="save();">{{teacher.teacherId === 0 ? 'Save' : 'Update'}}</button>
+</div>
+

@@ -1,0 +1,31 @@
+<h1 id="tableLabel">Weather forecast</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+<p *ngIf="!forecasts"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="forecasts">
+  <thead>
+      <tr>
+          <th>Date</th>
+          <th>Temp. (C)</th>
+          <th>Temp. (F)</th>
+          <th>Summary</th>
+          <th>#</th>
+          <th>#</th>
+          <th>#</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr *ngFor="let forecast of forecasts">
+          <td>{{ forecast.date | date:'yyyy-MM-dd hh:mm aa' }}</td>
+          <td>{{ forecast.temperatureC }}</td>
+          <td>{{ forecast.temperatureF }}</td>
+          <td>{{ forecast.summary }}</td>
+          <td><a href="javascript:void(0)" (click)="edit(forecast);">Edit</a></td>
+          <td><a href="javascript:void(0)" (click)="delete(forecast);">Delete</a></td>
+          <td><a href="javascript:void(0)" (click)="save(forecast);">Save</a></td>
+      </tr>
+  </tbody>
+
+</table>

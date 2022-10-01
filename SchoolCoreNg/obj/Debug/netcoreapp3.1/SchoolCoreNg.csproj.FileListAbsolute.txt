@@ -1,0 +1,173 @@
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.exe
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.deps.json
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.runtimeconfig.json
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.pdb
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.Views.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.Views.pdb
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.AssemblyInfo.cs
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.RazorAssemblyInfo.cache
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.RazorAssemblyInfo.cs
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\staticwebassets\SchoolCoreNg.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\staticwebassets\SchoolCoreNg.StaticWebAssets.xml
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\scopedcss\bundle\SchoolCoreNg.styles.css
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.TagHelpers.input.cache
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.TagHelpers.output.cache
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.RazorCoreGenerate.cache
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.RazorTargetAssemblyInfo.cs
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.Views.pdb
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.csproj.CopyComplete
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.pdb
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.genruntimeconfig.cache
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Administrator\Documents\test projects\School System\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\appsettings.json
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.exe
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.deps.json
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.runtimeconfig.json
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.runtimeconfig.dev.json
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.pdb
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.Views.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\SchoolCoreNg.Views.pdb
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.GeneratedMSBuildEditorConfig.editorconfig
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.AssemblyInfoInputs.cache
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.AssemblyInfo.cs
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.csproj.CoreCompileInputs.cache
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.MvcApplicationPartsAssemblyInfo.cs
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.MvcApplicationPartsAssemblyInfo.cache
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.RazorAssemblyInfo.cache
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.RazorAssemblyInfo.cs
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\staticwebassets\SchoolCoreNg.StaticWebAssets.Manifest.cache
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\staticwebassets\SchoolCoreNg.StaticWebAssets.xml
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\scopedcss\bundle\SchoolCoreNg.styles.css
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.TagHelpers.input.cache
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.TagHelpers.output.cache
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.RazorCoreGenerate.cache
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.RazorTargetAssemblyInfo.cache
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.RazorTargetAssemblyInfo.cs
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.Views.pdb
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.csproj.CopyComplete
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.dll
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.pdb
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.genruntimeconfig.cache
+D:\1266028\Final-Project\New folder\UpdateProject\SchoolCoreNgSln\SchoolCoreNg\obj\Debug\netcoreapp3.1\SchoolCoreNg.csproj.AssemblyReference.cache
